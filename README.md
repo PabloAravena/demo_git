@@ -1,4 +1,4 @@
 demo_git
 ========
 
-demo de git
+une demo de git suite
